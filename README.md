@@ -4,7 +4,7 @@ Rules for Shadowrocket
 from 
 https://github.com/PaPerseller/chn-iplist
 &
-https://github.com/Loyalsoldier/surge-rules/releases
+https://github.com/Loyalsoldier/surge-rules
 
 BlackList:
 https://raw.githubusercontent.com/RiverMud/ShadowrocketRules/master/BlackList.conf
