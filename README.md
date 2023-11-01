@@ -1,0 +1,2 @@
+# ShadowrocketRules
+Rules for Shadowrocket
