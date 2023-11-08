@@ -1,4 +1,4 @@
-# ShadowrocketRules
+# Shadowrocket
 Rules for Shadowrocket
 
 from 
