@@ -3,7 +3,7 @@
 // @version      0.1
 // @description  Inject Eruda on specific page
 // @author       Andy
-// @match        https://www.9qihuo.com/
+// @match        https://www.9qihuo.com/*
 // @grant        none
 // ==/UserScript==
 
