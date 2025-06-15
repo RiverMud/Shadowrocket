@@ -3,8 +3,8 @@ Rules for Shadowrocket
 
 Blacklist:
 
-https://raw.githubusercontent.com/RiverMud/Shadowrocket/master/Blacklist.conf
+https://raw.githubusercontent.com/RiverMud/Shadowrocket/refs/heads/master/Blacklist.conf
 
 Whitelist:
 
-https://raw.githubusercontent.com/RiverMud/Shadowrocket/master/Whitelist.conf
+https://raw.githubusercontent.com/RiverMud/Shadowrocket/refs/heads/master/Whitelist.conf
