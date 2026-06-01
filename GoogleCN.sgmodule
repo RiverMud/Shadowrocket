@@ -5,5 +5,4 @@
 ^https?://(www.)?google.cn https://www.google.com 302
 
 [MITM]
-enable = true
 hostname = *.google.cn
