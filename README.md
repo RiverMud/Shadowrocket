@@ -6,6 +6,6 @@ Whitelist:
 https://raw.githubusercontent.com/RiverMud/Shadowrocket/refs/heads/master/Whitelist.conf
 https://cdn.jsdelivr.net/gh/RiverMud/Shadowrocket@refs/heads/master/Whitelist.conf
 
-GoogleCN:
+GoogleCN:  
 https://raw.githubusercontent.com/RiverMud/Shadowrocket/refs/heads/master/GoogleCN.sgmodule
 https://cdn.jsdelivr.net/gh/RiverMud/Shadowrocket@refs/heads/master/GoogleCN.sgmodule
