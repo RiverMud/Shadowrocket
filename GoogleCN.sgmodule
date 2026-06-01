@@ -2,7 +2,4 @@
 #!desc=GoogleCN URL Rewrite
 
 [URL Rewrite]
-^https://www.google.cn https://www.google.com 302
-
-[MITM]
-hostname = *.google.cn
+^https?://(www.)?google.cn https://www.google.com 302
