@@ -1,8 +1,8 @@
-FinalDirect:  
+BlackList:  
 https://raw.githubusercontent.com/RiverMud/Shadowrocket/refs/heads/master/BlackList.conf
 https://cdn.jsdelivr.net/gh/RiverMud/Shadowrocket@refs/heads/master/BlackList.conf
 
-FinalProxy:  
+WhiteList:  
 https://raw.githubusercontent.com/RiverMud/Shadowrocket/refs/heads/master/BlackList.conf
 https://cdn.jsdelivr.net/gh/RiverMud/Shadowrocket@refs/heads/master/BlackList.conf
 
