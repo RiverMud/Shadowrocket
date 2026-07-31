@@ -1,8 +1,8 @@
 #!name=GoogleCN
-#!desc=GoogleCN URL Rewrite
+#!desc=GoogleCN URL Rewrite.
 
 [URL Rewrite]
-'^https://www\.google\.cn($|/) https://www.google.com/ 307'
+^https://www\.google\.cn(/.*)?$ https://www.google.com$1 307
 
 [MITM]
 hostname = www.google.cn
